@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=12AA9C&multiline=true&random=true&width=435&height=100&lines=I+look+for+what+I+miss%2C;+I+know+not+what+it+is%2C;+I+feel+so+sad%2C+so+drear%2C;So+lonely%2C+without+cheer.)](https://git.io/typing-svg)
+
 <!--
 **ZyRiven/ZyRiven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
