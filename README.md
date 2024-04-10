@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=50&pause=1000&color=AD93F7&random=false&width=435&height=100&lines=%E6%9C%9D%E5%BF%86%E5%BD%B0%E5%8D%8E)](https://git.io/typing-svg)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=73a6f8&multiline=true&random=true&width=435&height=100&lines=I+look+for+what+I+miss%2C;+I+know+not+what+it+is%2C;+I+feel+so+sad%2C+so+drear%2C;So+lonely%2C+without+cheer.)](https://git.io/typing-svg)
 
 
